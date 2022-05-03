@@ -58,3 +58,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rexml'
 
 gem 'simplecov', require: false, group: :test
+
+gem 'rubocop', require: false
+gem 'rubocop-rails', require: false
